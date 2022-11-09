@@ -1,0 +1,48 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+    min-height: 100vh;
+  padding: 6rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.main h2{
+  color: #FFF;
+}
+.main p{
+  color: #FFF;
+}
+.main ul li{
+  color: #FFF;
+}
+.center{
+  color: #FE782A;
+}
+@media only screen and (max-width: 740px) {
+.main {
+    min-height: 100vh;
+  padding: 9rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+}
+@media only screen and (max-width: 520px) {
+.main {
+    min-height: 100vh;
+  padding: 15rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.center{
+  color: #FE782A;
+  font-size: 1.8rem;
+}
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Programming in ReactJS",
+  "content": [
+    "Passing props to child components ",
+    "Updating state of React JS component ",
+    "What is the significant of SetState function"
+  ],
+  "filename": "10-Programming in ReactJS.docx"
+}

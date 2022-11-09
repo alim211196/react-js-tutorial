@@ -1,0 +1,18 @@
+{
+  "title": "Building Blocks of React.JS",
+  "content": [
+    "Core Building Blocks of React",
+    "Components",
+    "State and Props ",
+    "Rendering",
+    "Conditional Rendering ",
+    "What is JSX",
+    "Example ",
+    "Why JSX",
+    "Advantages of JSX ",
+    "Expressions in JSX",
+    "Internal Implementation of JSX",
+    "Hands-on: Creating a react component with jsx"
+  ],
+  "filename": "4-Building Blocks of React.JS.docx"
+}

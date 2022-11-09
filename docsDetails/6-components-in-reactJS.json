@@ -1,0 +1,14 @@
+{
+  "title": "Components in React JS",
+  "content": [
+    "What are Components in React JS ",
+    "Types of Components",
+    "Functional component ",
+    "Class Component",
+    "Functional component vs Class Component ",
+    "Creating Class Components",
+    "Creating Functional Components",
+    "Converting Functional Components to Class Components"
+  ],
+  "filename": "6-Components in React JS.docx"
+}

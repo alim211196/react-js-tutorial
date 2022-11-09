@@ -1,0 +1,23 @@
+{
+  "title": "Introduction To React JS",
+  "content": [
+    "Introduction to React JS ",
+    "History of web development",
+    "History of React",
+    "DOM (Document Object Model)",
+    "DOM Manipulation",
+    "Virtual DOM",
+    "How does React use Virtual DOM",
+    "Virtual DOM vs Real DOM",
+    "Thinking in React",
+    "React one - way data binding",
+    "React two - way data binding",
+    "One way vs two-way data binding or Difference b/n one - way data binding & two - way data binding",
+    "Server-side Rendering",
+    "Advantages of using server-side rendering",
+    "Advantages of React.JS",
+    "When to use React JS? And when to opt for alternatives?",
+    "Applications of React.js"
+  ],
+  "filename": "2-Introduction To React JS.docx"
+}

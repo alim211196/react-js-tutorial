@@ -1,0 +1,25 @@
+{
+  "title": "Redux Overview",
+  "content": [
+    "Redux Overview ",
+    "Flux",
+    "Flux Elements ",
+    "Dispatcher ",
+    "Stores",
+    "Views ",
+    "Actions ",
+    "Flux Pros",
+    "Connecting Redux and React ",
+    "What is Redux?",
+    "Why use Redux with React. js? ",
+    "Redux Architecture?",
+    "Redux Principles ",
+    "Redux Components ",
+    "Store",
+    "Action ",
+    "Middleware",
+    "What is a Reducer?"
+
+  ],
+  "filename": "19-Redux Overview.docx"
+}

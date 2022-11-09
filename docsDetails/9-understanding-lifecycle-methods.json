@@ -1,0 +1,12 @@
+{
+  "title": "Understanding Lifecycle Methods",
+  "content": [
+    "What are lifecycle Methods and what are the uses of it ",
+    "Constructor",
+    "Render",
+    "Should component update ",
+    "Render",
+    "ComponentDidUpdate"
+  ],
+  "filename": "9-Understanding Lifecycle Methods.docx"
+}

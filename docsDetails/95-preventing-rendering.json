@@ -1,0 +1,14 @@
+{
+  "title": "Preventing Rendering",
+  "content": [
+    "Preventing component from rendering ",
+    "How to connect ReactJS with Node JS ",
+    "Backend Setup",
+    "propTypes ",
+    "getDefaultProps",
+    "Binding the context( Inline)",
+    "UI without ReactJS & Problem",
+    "How the ReactJS solving the problem "
+  ],
+  "filename": "14-Preventing Rendering.docx"
+}

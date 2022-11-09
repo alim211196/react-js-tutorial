@@ -1,0 +1,17 @@
+{
+  "title": "Programming in React JS",
+  "content": [
+    "What are Props ",
+    "Lets Practice Props",
+    "What is State in React JS ",
+    "ReactJS(Diff Props vs State) ",
+    "Why Props are Read-only",
+    "Composition of React Components ",
+    "Stateless Component",
+    "Stateful Component",
+    "When would you use a stateless Component ",
+    "When would you use a stateful Component ",
+    "Stateful Component vs Stateless Component"
+  ],
+  "filename": "7-Programming in React JS.docx"
+}

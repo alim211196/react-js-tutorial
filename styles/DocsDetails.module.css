@@ -1,0 +1,46 @@
+.container {
+  padding: 0 2rem;
+}
+
+.main {
+    min-height: 100vh;
+  padding: 4rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.btn {
+  color: white;
+  background: black;
+  padding: 7px 20px;
+  cursor: pointer;
+  border-radius: 6px;
+  font-size: 12px;
+  margin-bottom: 9px;
+}
+
+@media only screen and (max-width: 740px) {
+.main {
+    min-height: 100vh;
+  padding: 9rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+        align-items: center;
+}
+}
+@media only screen and (max-width: 520px) {
+.main {
+    min-height: 100vh;
+  padding: 15rem 0;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+        align-items: center;
+}
+}
